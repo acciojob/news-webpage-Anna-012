@@ -7,12 +7,14 @@ body{
 	background-color : #011e29;
 	color:white;
 	text-align:center;
+	padding:2px;
 }
 
-.Box1{
+.latest-news-section{
 	/* display:flex; */
 	padding : 2px 0px;
 	background-color:#fcfefd;
+	width:200px;
 	border:#fcfefd;
     border-radius : 4px;
 	
@@ -24,6 +26,10 @@ body{
     border-radius : 4px;
 }
 
-img{
-	width: 200px;
+.pictorial-news-section{
+	background-color: #fcfefd;
+	padding:2px;
+	width:200px;
+	text-align:center;
+	border-radius:4px;
 }
