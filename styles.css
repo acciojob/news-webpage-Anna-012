@@ -3,6 +3,12 @@ body{
 	background-color:  #f5f5f5;
 	display:flex;
 }
+.header{
+	background-color : #011e29;
+	color:white;
+	text-align:center;
+}
+
 .Box1{
 	/* display:flex; */
 	padding : 2px 0px;
@@ -11,11 +17,11 @@ body{
     border-radius : 4px;
 	
 }
-
-.heading{
-	background-color : #011e29;
-	color:white;
-	text-align:center;
+.Article{
+	padding : 2px 0px;
+	background-color:#fcfefd;
+	border:#fcfefd;
+    border-radius : 4px;
 }
 
 img{
